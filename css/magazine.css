@@ -1,6 +1,7 @@
 body {
     overflow: hidden;
     background-color: #fcfcfc;
+    background-image: url('pics/fondo.jpg');
     margin: 0;
     padding: 0;
 }
