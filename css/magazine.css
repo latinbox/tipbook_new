@@ -6,6 +6,16 @@ body {
     padding: 0;
 }
 
+
+.magazine-viewport .container {
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    height: 500px;
+    margin: auto;
+    /* keyword values */
+}
+
 .magazine-viewport .container img{
     position: absolute;
     top: 2%;
