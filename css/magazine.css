@@ -12,7 +12,7 @@ body {
 
 
 .magazine-viewport .container {
-    position: relative;
+    position: absolute;
     top: 44%;
     width: 90%;
     left: 50%;
