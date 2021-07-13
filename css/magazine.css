@@ -20,10 +20,10 @@ body {
     margin: auto;
     /* keyword values */
 }
-.magazine-viewport .container img {
+.magazine-viewport .container .img {
    position: absolute;
     top: 60&;
-    width: 1900px;
+    width: 1600px;
     left: 50%;
     height: 1000;
 }
