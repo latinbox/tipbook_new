@@ -21,7 +21,7 @@ body {
     /* keyword values */
 }
 .magazine-viewport .container img {
-   position: relative;
+   position: absolute;
     top: 60&;
     width: 90%;
     left: 50%;
