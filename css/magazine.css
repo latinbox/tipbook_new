@@ -9,6 +9,11 @@ body {
     bottom: 0;
     width: 100%;
 }
+
+.magazine .page {
+width: 980px;
+height: 700px;
+}
 .magazine-viewport .container {
     position: absolute;
     top: 44%;
