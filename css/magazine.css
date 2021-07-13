@@ -10,7 +10,7 @@ body {
     width: 100%;
 }
 
-.magazine .page {
+.magazine-viewport .page {
 width: 980px;
 height: 700px;
 }
