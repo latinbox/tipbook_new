@@ -9,7 +9,7 @@ body {
     bottom: 0;
     width: 100%;
 }
-.magazine-viewport .container img {
+.magazine-viewport .container {
     position: absolute;
     top: 44%;
     width: 980px;
@@ -18,7 +18,13 @@ body {
     margin: auto;
     /* keyword values */
 }
-
+.magazine-viewport .container img {
+   postion: absolute;
+    top: 60&;
+    width: 1400px;
+    left: 50%;
+    height: 1000;
+}
 
 
 .magazine-viewport .magazine {
