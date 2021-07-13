@@ -4,8 +4,11 @@ body {
     margin: 0;
     padding: 0;
 }
-
-
+body {
+  left: 0;
+    bottom: 0;
+    width: 100%;
+}
 .magazine-viewport .container {
     position: absolute;
     top: 44%;
