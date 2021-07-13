@@ -20,13 +20,7 @@ body {
     margin: auto;
     /* keyword values */
 }
-.magazine-viewport .container img {
-   position: relative;
-    top: 60&;
-    width: 90%;
-    left: 50%;
-    height: 1800px;
-}
+
 
 
 .magazine-viewport .magazine {
