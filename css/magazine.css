@@ -24,7 +24,7 @@ height: 700px;
     /* keyword values */
 }
 .magazine-viewport .container img {
-   position: absolute;
+   position: relative;
     top: 60&;
     width: 1400px;
     left: 50%;
