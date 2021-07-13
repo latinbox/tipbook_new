@@ -10,10 +10,7 @@ body {
     width: 100%;
 }
 
-.magazine-viewport .page {
-width: 980px;
-height: 700px;
-}
+
 .magazine-viewport .container {
     position: absolute;
     top: 44%;
