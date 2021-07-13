@@ -85,6 +85,8 @@ body {
     -webkit-user-select: none;
     user-select: none;
     margin: 0;
+    width: 700px;
+    height; 980px;
 }
 
 .magazine .even .gradient {
