@@ -14,6 +14,7 @@ body {
 .magazine-viewport {
     align-items: center;
   display: flex;
+  left: 50%;
   height: 90%;
   justify-content: center;
   margin: 5%;
