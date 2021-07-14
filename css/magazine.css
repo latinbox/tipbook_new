@@ -1,9 +1,9 @@
 
 
 .magazine-viewport {
- position: relative;
-    top: 40%;
-    width: 1500px;
+ position: absolute;
+    top: 60px;
+    width: 100%;
     left: 50%;
     height: 800px;
     margin: auto;
@@ -12,7 +12,6 @@
 .magazine-viewport .container {
    
   position: relative;
-  width: 100%;
 }
 .magazine-viewport .container .magazine { 
      bottom: 0;
