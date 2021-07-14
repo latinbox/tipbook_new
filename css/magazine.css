@@ -15,10 +15,11 @@
   
 }
 .magazine-viewport .container .magazine { 
-width: 922px;
-    height: 600px;
-    left: -461px;
-    top: -300px;
+ bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 
 
