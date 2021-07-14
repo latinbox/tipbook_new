@@ -24,7 +24,7 @@ body {
 
 .magazine-viewport .container {
     padding-bottom: 70%;
-  position: relative;
+  position: absolute;
   width: 100%;
 }
 .magazine-viewport .container .magazine { 
