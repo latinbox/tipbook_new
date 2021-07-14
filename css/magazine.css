@@ -11,16 +11,28 @@ body {
 }
 
 
-.magazine-viewport .container {
-    position: absolute;
-    top: 44%;
-    width: 90%;
-    left: 50%;
-    height: 800px;
-    margin: auto;
+.magazine-viewport {
+    align-items: center;
+  display: flex;
+  height: 90%;
+  justify-content: center;
+  margin: 5%;
+  width: 90%;
     /* keyword values */
 }
 
+.container {
+    padding-bottom: 70%;
+  position: relative;
+  width: 100%;
+}
+.magazine { 
+     bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
 
 
 .magazine-viewport .magazine {
