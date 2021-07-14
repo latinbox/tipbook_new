@@ -9,12 +9,9 @@
 }
 
 .magazine-viewport .container {
-    align-items: center;
-  display: flex;
-  height: 90%;
-  justify-content: center;
-  margin: 5%;
-  width: 90%;
+   padding-bottom: 70%;
+  position: relative;
+  width: 100%;
   
 }
 .magazine-viewport .container .magazine { 
