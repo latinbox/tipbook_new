@@ -1,33 +1,42 @@
-
-
-.magazine-viewport {
-  align-items: center;
-  display: flex;
-  height: 100%;
-  justify-content: center;
-  width: 100%;
+body {
+    overflow: hidden;
+    background-color: #fcfcfc;
+    margin: 0;
+    padding: 0;
 }
+body {
+  left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
 
 .magazine-viewport .container {
-   padding-bottom: 70%;
-  position: relative;
-  width: 100%;
-  
-}
-.magazine-viewport .container .magazine { 
- bottom: 0;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
+    position: absolute;
+    top: 44%;
+    width: 90%;
+    left: 50%;
+    height: 800px;
+    margin: auto;
+    /* keyword values */
 }
 
+.magazine-viewport .container .magazine {
+    
+}
 
 
+
+.magazine-viewport .magazine {
+    width: 922px;
+    height: 600px;
+    left: -461px;
+    top: -300px;
+}
 
 .magazine-viewport .page {
     width: 861px;
-    height: 600px
+    height: 600px;
     background-color: white;
     background-repeat: no-repeat;
     background-size: 100% 100%;
