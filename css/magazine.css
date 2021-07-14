@@ -1,21 +1,26 @@
 
 
 .magazine-viewport {
- position: absolute;
-    top: 60px;
-    width: 100%;
-    left: 50%;
-    height: 800px;
-    margin: auto;
+  align-items: center;
+  display: flex;
+  height: 90%;
+  justify-content: center;
+  margin: 5%;
+  width: 90%;
 }
 
 .magazine-viewport .container {
-   
-  position: relative;
+    align-items: center;
+  display: flex;
+  height: 90%;
+  justify-content: center;
+  margin: 5%;
+  width: 90%;
+  
 }
 .magazine-viewport .container .magazine { 
-     bottom: 0;
-  left: 40px;
+bottom: 0;
+  left: 0;
   position: absolute;
   right: 0;
   top: 0;
