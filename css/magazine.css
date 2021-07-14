@@ -12,8 +12,8 @@ body {
 
 
 .magazine-viewport .container {
-    position: absolute;
-  
+    position: inherit;
+    
     width: 70%;
     left: 50%;
    
