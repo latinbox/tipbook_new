@@ -1,14 +1,12 @@
 
 
 .magazine-viewport {
-    align-items: center;
-  display: flex;
- 
-  height: 90%;
-  justify-content: center;
-  
-  width: 1200%;
-    /* keyword values */
+ position: absolute;
+    top: 44%;
+    width: 90%;
+    left: 50%;
+    height: 800px;
+    margin: auto;
 }
 
 .magazine-viewport .container {
