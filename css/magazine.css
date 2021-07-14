@@ -21,12 +21,12 @@ body {
     /* keyword values */
 }
 
-.container {
+.magazine-viewport .container {
     padding-bottom: 70%;
   position: relative;
   width: 100%;
 }
-.magazine { 
+.magazine-viewport .container .magazine { 
      bottom: 0;
   left: 0;
   position: absolute;
