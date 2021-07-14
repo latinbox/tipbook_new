@@ -12,9 +12,12 @@
 }
 
 .magazine-viewport .container {
-    padding-bottom: 70%;
-  position: absolute;
-  width: 100%;
+    position: absolute;
+    top: 44%;
+    width: 90%;
+    left: 50%;
+    height: 800px;
+    margin: auto;
 }
 .magazine-viewport .container .magazine { 
      bottom: 0;
